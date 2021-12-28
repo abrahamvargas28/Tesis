@@ -15,6 +15,12 @@ function iniciarSesion()
     if (bAcceso == true){
         ingresar();
     }
+    else if (bAcceso != true){
+        alert(" Estos datos no son correctos ");
+    }
+    else{
+        alert(" Ingrese los datos correspondientes");
+    }
     
 }
 

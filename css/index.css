@@ -1,8 +1,6 @@
-.container-RRHH {
-  margin: 100px 100px 100px 100px;
-  padding: 100px 100px 100px 100px;
-  justify-content: center;
-  height: 300px;
-  max-width: 900%;
-
+body{
+  padding: 20px;
+  background-repeat: no-repeat;
+  background-size:contain;
+  background: url(/proyecto/images/imagen.jpeg);
 }
